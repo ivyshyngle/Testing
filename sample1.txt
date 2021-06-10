@@ -1,3 +1,5 @@
 hello
 
 to my house
+close
+door
